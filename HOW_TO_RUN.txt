@@ -1,0 +1,5 @@
+python -m streamlit run webui/Main.py
+
+
+to auto make do python main.py on one termal
+and python bot.py on another
